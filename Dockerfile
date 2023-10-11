@@ -19,4 +19,4 @@ EXPOSE 5173
 # Define the entry point for the container
 CMD ["npm", "start"]
 
-RUN pnpm run dev
+RUN npm run dev
