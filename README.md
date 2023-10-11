@@ -3,9 +3,10 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/338004aa1b528370fa88/maintainability)](https://codeclimate.com/github/werdelesmarcio/upload.ai/maintainability)
 [![Build status](https://ci.appveyor.com/api/projects/status/62ibvkrv473m4k5g?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/upload-ai)
 [![Build status](https://ci.appveyor.com/api/projects/status/62ibvkrv473m4k5g/branch/master?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/upload-ai/branch/master)
-
-
-[![Build status](https://ci.appveyor.com/api/projects/status/050o62vq1v03wv4c?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/pytcpscan2)   [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2)   [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=bugs)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2)   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/PyTCPScan2">   <img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/PyTCPScan2">   <img alt="Twitter" src="https://img.shields.io/twitter/url?label=gh05tb0y&logo=twitter&logoColor=green&style=social&url=https%3A%2F%2Ftwitter.com%2Fc4s3_w1nt3rmut3">
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_upload.ai&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_upload.ai)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_upload.ai&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_upload.ai)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_upload.ai&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_upload.ai)
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/upload.ai">   <img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/upload.ai"> 
 
 _Repositório para armazenar os códigos da aula de criação da aplicação upload.ai, estudo de caso da Rocketseat._
 
@@ -28,12 +29,12 @@ _Preview da ferramenta em execução_
 
 ### Licença: 
 ***Este projeto está sob Licença GPL-3.0.***
-Consulte o arquivo [de Licença](https://github.com/werdelesmarcio/PyTCPScan2/blob/master/Archives/LICENSE) para obter mais detalhes.
+Consulte o arquivo [de Licença](https://github.com/werdelesmarcio/upload.ai/blob/master/Archives/LICENSE) para obter mais detalhes.
 
 ### Contatos
 Se quiser entrar em contato, crie um **issue** no GitHub ou envie um e-mail para werdelesmarcio@gmail.com. Obrigado!
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/werdelesmarcio/PyTCPScan2?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/werdelesmarcio/PyTCPScan2?style=for-the-badge">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/werdelesmarcio/upload.ai?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/werdelesmarcio/upload.ai?style=for-the-badge">
 
 <img src = "https://github.com/werdelesmarcio/PyTCPScan2/blob/master/Images/SoftwareLivre.png?raw=true" width =130 align="Right">
 <img src = "https://github.com/werdelesmarcio/PyTCPScan2/blob/master/Images/PoweredByLinux.png?raw=true" width =80 align="Right">
