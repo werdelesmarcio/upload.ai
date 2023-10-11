@@ -4,7 +4,7 @@
     :construction:  Projeto em construção  :construction:
 </h4>
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/338004aa1b528370fa88/maintainability)](https://codeclimate.com/github/werdelesmarcio/upload.ai/maintainability)
+[![CodeQL](https://github.com/werdelesmarcio/upload.ai/actions/workflows/github-code-scanning/codeql/badge.svg?branch=master)](https://github.com/werdelesmarcio/upload.ai/actions/workflows/github-code-scanning/codeql)
 [![Build status](https://ci.appveyor.com/api/projects/status/62ibvkrv473m4k5g?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/upload-ai)
 [![Build status](https://ci.appveyor.com/api/projects/status/62ibvkrv473m4k5g/branch/master?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/upload-ai/branch/master)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_upload.ai&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_upload.ai)
