@@ -17,6 +17,11 @@ _Repositório para armazenar os códigos da aula de criação da aplicação upl
 ### upload.ai
 Consiste em uma aplicação que auxilia na criação de postagens de vídeos para o youtube que utiliza de processos de Inteligência Artificial.
 
+✔️ Técnicas e tecnologias utilizadas
+* Node.js, Typescript, React
+* Visual Studio Code
+* Paradigma de orientação a objetos
+
 ### Requisitos
 Node.JS e framework React, alem de pnpm previamente instalados.
 
