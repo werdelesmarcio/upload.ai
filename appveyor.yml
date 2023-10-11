@@ -1,4 +1,3 @@
 version: 1.0.{build}
-build:
-  publish_wap: true
-  verbosity: minimal
+image: Ubuntu
+build: off
