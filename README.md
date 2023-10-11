@@ -14,8 +14,12 @@ _Comando para subir o serviço:_ **pnpm run dev**
 
 ![image](https://github.com/werdelesmarcio/upload.ai/assets/36682515/a2aadc02-b3fc-4474-a334-dfea3d8f23ff)
 
+_Preview da ferramenta em execução_🥇
+
+![image](https://github.com/werdelesmarcio/upload.ai/assets/36682515/4934d96b-171e-4713-9270-9bad0e8fd04b)
+
 ## Autor:
-* **Werdeles Marcio de C. Soares**:**(gh05tb0y)** - _Desenvolvedor_
+* **Werdeles Marcio de C. Soares**:** (gh05tb0y)** - _Desenvolvedor_
 
 ## Licença: 
 ***Este projeto está sob Licença GPL-3.0.***
