@@ -16,8 +16,8 @@ RUN npm run build
 # Expose port 5173
 EXPOSE 5173
 
-# Define the entry point for the container
-CMD ["npm", "start"]
-
 # Run the development server
 RUN npm run dev
+
+# Define the entry point for the container
+CMD ["npm", "start"]
