@@ -2,7 +2,8 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/338004aa1b528370fa88/maintainability)](https://codeclimate.com/github/werdelesmarcio/upload.ai/maintainability)   
 [![Test Coverage](https://api.codeclimate.com/v1/badges/338004aa1b528370fa88/test_coverage)](https://codeclimate.com/github/werdelesmarcio/upload.ai/test_coverage)
-
+[![Build status](https://ci.appveyor.com/api/projects/status/62ibvkrv473m4k5g?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/upload-ai)
+[![Build status](https://ci.appveyor.com/api/projects/status/62ibvkrv473m4k5g/branch/master?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/upload-ai/branch/master)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/050o62vq1v03wv4c?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/pytcpscan2)   [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2)   [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=bugs)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2)   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/PyTCPScan2">   <img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/PyTCPScan2">   <img alt="Twitter" src="https://img.shields.io/twitter/url?label=gh05tb0y&logo=twitter&logoColor=green&style=social&url=https%3A%2F%2Ftwitter.com%2Fc4s3_w1nt3rmut3">
 
