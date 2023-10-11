@@ -1,6 +1,8 @@
 # upload.ai
 
-> :construction: Projeto em construção :construction:
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/338004aa1b528370fa88/maintainability)](https://codeclimate.com/github/werdelesmarcio/upload.ai/maintainability)
 [![Build status](https://ci.appveyor.com/api/projects/status/62ibvkrv473m4k5g?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/upload-ai)
